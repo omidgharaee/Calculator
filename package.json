@@ -1,0 +1,23 @@
+{
+  "name": "bachicaltypescript",
+  "version": "1.0.0",
+  "description": "Calculator with basic methods",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calclulator",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "Bhargav Bachina",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
+}
